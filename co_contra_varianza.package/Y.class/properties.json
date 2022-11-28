@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "X",
+	"category" : "co_contra_varianza",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Y",
+	"type" : "normal"
+}
